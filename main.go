@@ -13,6 +13,7 @@ import (
 	"os"
 )
 
+// pure for debugging
 var count int
 
 func main() {
@@ -29,7 +30,7 @@ func main() {
 		return
 	}
 
-	// load image palettes
+
 	dirF, err := os.Open(*dir)
 	handErr(err)
 	count++ // 1
