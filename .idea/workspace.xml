@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cedd4652-356e-4087-9663-f66ca7efd02f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1Zx9BBEu4tXU9nmkvjXHcD3Su3e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cedd4652-356e-4087-9663-f66ca7efd02f" name="Default Changelist" comment="" />
+      <created>1585769741207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585769741207</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="58" width="800" height="678" key="#GOROOT" timestamp="1585769786081">
+      <screen x="0" y="27" width="1366" height="740" />
+    </state>
+    <state x="278" y="58" width="800" height="678" key="#GOROOT/0.27.1366.740@0.27.1366.740" timestamp="1585769786081" />
+    <state x="366" y="123" width="624" height="548" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585769754984">
+      <screen x="0" y="27" width="1366" height="740" />
+    </state>
+    <state x="366" y="123" width="624" height="548" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.740@0.27.1366.740" timestamp="1585769754984" />
+    <state x="621" y="186" width="424" height="485" key="FileChooserDialogImpl" timestamp="1585770629904">
+      <screen x="0" y="27" width="1366" height="740" />
+    </state>
+    <state x="621" y="186" width="424" height="485" key="FileChooserDialogImpl/0.27.1366.740@0.27.1366.740" timestamp="1585770629904" />
+    <state x="215" y="36" width="1022" height="731" key="SettingsEditor" timestamp="1585770640891">
+      <screen x="0" y="27" width="1366" height="740" />
+    </state>
+    <state x="215" y="36" width="1022" height="731" key="SettingsEditor/0.27.1366.740@0.27.1366.740" timestamp="1585770640890" />
+    <state x="484" y="277" width="718" height="304" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1585770639806">
+      <screen x="0" y="27" width="1366" height="740" />
+    </state>
+    <state x="484" y="277" width="718" height="304" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.27.1366.740@0.27.1366.740" timestamp="1585770639806" />
+    <state x="346" y="88" width="672" height="678" key="search.everywhere.popup" timestamp="1585770025693">
+      <screen x="0" y="27" width="1366" height="740" />
+    </state>
+    <state x="346" y="88" width="672" height="678" key="search.everywhere.popup/0.27.1366.740@0.27.1366.740" timestamp="1585770025693" />
+  </component>
+</project>
